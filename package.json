@@ -1,0 +1,21 @@
+{
+  "name": "ballerine-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "jsdom": "^24.1.1",
+    "node-fetch": "^3.3.2",
+    "url-parse": "^1.5.10"
+  },
+  "description": ""
+}
